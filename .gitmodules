@@ -1,0 +1,3 @@
+[submodule "gauss_jordan"]
+	path = gauss_jordan
+	url = https://gitlab.com/Sapiens_homo/gj.git
